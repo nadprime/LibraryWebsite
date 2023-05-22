@@ -1,4 +1,5 @@
 # Library Website
+###### <i>Lab Assignment Project</i>
 ## Problem Statement
 <b><i>
 A Library maintains a website of its members and books issued to those members. The 
@@ -52,6 +53,44 @@ d. Feedback page should display another form that has three input fields – Nam
 member, subject of the feedback and a text area for giving the feedback. In addition, this 
 form should have a Submit button.
 </i>
+
+
+
+
+
+
+
+
+
+</br>
+</br>
+
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone link-here
+```
+
+Go to the project directory
+
+```bash
+  cd library website
+```
+
+Start the server
+
+```bash
+    use live-server extension
+```
+
+
+
 
 </br>
 </br>
