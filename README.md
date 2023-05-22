@@ -52,3 +52,41 @@ d. Feedback page should display another form that has three input fields – Nam
 member, subject of the feedback and a text area for giving the feedback. In addition, this 
 form should have a Submit button.
 </i>
+
+</br>
+</br>
+
+
+
+<img width="960" alt="sc1" src="https://github.com/nadprime/LibraryWebsite/assets/103782863/dad18924-7158-4dd7-88df-68d15281b986">
+
+
+</br>
+</br>
+
+
+<img width="960" alt="sc2" src="https://github.com/nadprime/LibraryWebsite/assets/103782863/7e4e1c28-19f7-48ec-b2f3-4eeb4a1edbc8">
+
+
+</br>
+</br>
+
+<img width="960" alt="sc3" src="https://github.com/nadprime/LibraryWebsite/assets/103782863/5e7e070e-f5bc-4a8d-a42c-f17b6bac0c38">
+
+</br>
+</br>
+
+
+
+<img width="960" alt="sc4" src="https://github.com/nadprime/LibraryWebsite/assets/103782863/d455adce-6987-45fa-a18c-174fcc7b79cd">
+
+</br>
+</br>
+
+<footer>
+  2023 ©️ Nadeem Ahmad 
+</footer>
+
+
+
+
